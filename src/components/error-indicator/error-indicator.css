@@ -1,0 +1,10 @@
+.error-indicator {
+    max-width: 20rem;
+    margin: 0 auto;
+}
+
+.error-icon {
+    width: 64px;
+    height: 64px;
+    margin-left: 20px;
+}
